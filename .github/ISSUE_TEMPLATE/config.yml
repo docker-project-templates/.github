@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: Have a question? 🤔
+    url: https://github.com/docker-project-templates/.github/discussions
+    about: Have a question about this repo you think we can answer? Try a discussion thread!
